@@ -29,7 +29,7 @@ h1 {
 
 
 .menu {
-  background-color: #A52A2A;
+  background-color: #a92d2d;
   margin: 10px;
   border: 1px solid black;
 }
@@ -37,9 +37,9 @@ h1 {
 
 
 .text {
-margin: 10px;
+margin: 40px;
 margin-top: 40px;
-
+clear:both;
 
 }
 
